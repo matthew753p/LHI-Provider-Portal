@@ -1,2 +1,28 @@
 The LHI Provider Portal project follows this structure:
 
+LHI Provider Portal/
+│
+├── public/
+│   ├── index.html
+│   ├── manifest.json
+│
+├── src/
+│   ├── index.js
+│   ├── index.css
+│   ├── App.js
+│   ├── App.css
+│   ├── App.test.js
+│   ├── components/
+│       ├── ExpenseForm.js
+│       ├── ExpenseForm.css
+│       ├── ExpenseList.js
+│       ├── ExpenseList.css
+│       ├── Header.js
+│       ├── Header.css
+│       ├── Receipt.js
+│       ├── Receipt.css
+│
+├── .gitignore
+├── package.json
+├── README.md
+└── CONTRIBUTING.md
